@@ -1,0 +1,11 @@
+Some common terminologies in the Internet Banking System:
+- Internet Banking:
+A service that allows an account holder to obtain account information and manage certain banking transactions through a personal computer via the financial institution's Web site on the Internet.
+- Individual Account:
+An account in the name of one individual.
+- Interbank Network:
+A computer network that enables ATM cards issued by a financial institution that is a member of the network to be used to perform ATM transactions through ATMs that belong to another member of the network.
+- Bank Custodian:
+A bank custodian is responsible for maintaining the safety of clients' assets held at one of the custodian's premises, a sub-custodian facility or an outside depository.
+- Balance Transfer:
+The process of moving an outstanding balance from one credit card to another.
