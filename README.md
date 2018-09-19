@@ -8,3 +8,12 @@ Member:
 - Cem Findik for exercise 2.a
 - Do Hong Son for exercise 2.b, 2.c
 - Le Xuan Hung for exercise 3
+
+
+Status: Complete
+Review:
+- Son reviews exercise 2 for Hung
+- Hung reviews exercise 3 for Son
+
+Note:
+I'm sorry for not using Astah during this exercise, I didn't read the requirement carefully. I promise to use Astah for drawing use cases during future assignments.
